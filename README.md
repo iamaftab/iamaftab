@@ -17,10 +17,7 @@
 ![Aftab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamaftab)
 
 ![Aftab's github stats](https://github-readme-stats.vercel.app/api?username=iamaftabjamil&show_icons=true&theme=vue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaftabjamil&layout=compact)
-
-
 
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaftabjamil&repo=color-palette)
