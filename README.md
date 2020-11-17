@@ -12,8 +12,8 @@
 </br>
 </br>
 
-![Aftab's github stats](https://github-readme-stats.vercel.app/api?username=iamaftabjamil&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaftabjamil&layout=compact)
+![Aftab's github stats](https://github-readme-stats.vercel.app/api?username=iamaftab&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaftab&layout=compact)
 
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaftabjamil&repo=color-palette)
