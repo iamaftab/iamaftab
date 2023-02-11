@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on  __<kbd> __React__ </kbd>__
 - 🌱 I’m currently learning __<kbd> __Data Structure__ </kbd>__
 - 👯 I’m looking to collaborate with other __contributers__
-- 🥅 2021 Goals: Contribute more to *Open Source projects*
+- 🥅 2023 Goals: Contribute more to *Open Source projects*
 - 💬 Need help ask me anytime
 
 ### Languages and Tools:
