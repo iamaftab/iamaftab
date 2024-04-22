@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning __<kbd> __Design Patterns with C#__ </kbd>__
 - 👯 I’m looking to collaborate with other __contributers__
-- 🥅 2023 Goals: Contribute more to *Open Source projects*
 - 💬 Need help ask me anytime
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaftab&layout=compact)
